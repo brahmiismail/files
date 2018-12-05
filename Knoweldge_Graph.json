@@ -1,0 +1,568 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "graph": {},
+    "nodes": [
+        {
+            "entity_type": "Scenario",
+            "entity_name": "the offices of each of the eight members of the management board",
+            "sentiment": -0.253377,
+            "location": [
+                147,
+                211
+            ],
+            "data_id": "Id1",
+            "id": 0
+        },
+        {
+            "entity_type": "Scenario",
+            "entity_name": "Even after months of relentless travel and endless meetings with staff and clients",
+            "sentiment": 0.0,
+            "location": [
+                731,
+                813
+            ],
+            "data_id": "Id1",
+            "id": 1
+        },
+        {
+            "entity_type": "Scenario",
+            "entity_name": "the stops to escape that circle",
+            "sentiment": 0.0,
+            "location": [
+                989,
+                1020
+            ],
+            "data_id": "Id1",
+            "id": 2
+        },
+        {
+            "entity_type": "Scenario",
+            "entity_name": "drawn closer to the probe",
+            "sentiment": 0.0,
+            "location": [
+                289,
+                314
+            ],
+            "data_id": "Id1",
+            "id": 3
+        },
+        {
+            "entity_type": "Scenario",
+            "entity_name": "prosecutors have evidence against a person whose office is being raided",
+            "sentiment": -0.436729,
+            "location": [
+                2028,
+                2099
+            ],
+            "data_id": "Id1",
+            "id": 4
+        },
+        {
+            "entity_type": "Scenario",
+            "entity_name": "can raid homes or offices of people who aren\u2019t implicated if there\u2019s reason to believe document or other evidence relevant to the case may be found there",
+            "sentiment": -0.733861,
+            "location": [
+                2106,
+                2259
+            ],
+            "data_id": "Id1",
+            "id": 5
+        },
+        {
+            "entity_type": "Person_Role",
+            "entity_name": "\u2019s leaders",
+            "sentiment": 0.0,
+            "location": [
+                274,
+                284
+            ],
+            "data_id": "Id1",
+            "id": 6
+        },
+        {
+            "entity_type": "Person_Role",
+            "entity_name": "predecessor",
+            "sentiment": -0.565461,
+            "location": [
+                706,
+                717
+            ],
+            "data_id": "Id1",
+            "id": 7
+        },
+        {
+            "entity_type": "Person_Role",
+            "entity_name": "Chief Financial Officer",
+            "sentiment": -0.314153,
+            "location": [
+                895,
+                918
+            ],
+            "data_id": "Id1",
+            "id": 8
+        },
+        {
+            "entity_type": "Person_Role",
+            "entity_name": "former Chief Operating Officer",
+            "sentiment": 0.0,
+            "location": [
+                1083,
+                1113
+            ],
+            "data_id": "Id1",
+            "id": 9
+        },
+        {
+            "entity_type": "Person_Role",
+            "entity_name": "head of asset management",
+            "sentiment": 0.0,
+            "location": [
+                1135,
+                1159
+            ],
+            "data_id": "Id1",
+            "id": 10
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "his",
+            "sentiment": -0.397559,
+            "location": [
+                702,
+                705
+            ],
+            "data_id": "Id1",
+            "id": 11
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "John Cryan",
+            "sentiment": 0.0,
+            "location": [
+                719,
+                729
+            ],
+            "data_id": "Id1",
+            "id": 12
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "James von Moltke",
+            "sentiment": -0.314153,
+            "location": [
+                919,
+                935
+            ],
+            "data_id": "Id1",
+            "id": 13
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Kim Hammonds",
+            "sentiment": 0.0,
+            "location": [
+                1114,
+                1126
+            ],
+            "data_id": "Id1",
+            "id": 14
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Nicolas Moreau",
+            "sentiment": 0.452312,
+            "location": [
+                1161,
+                1175
+            ],
+            "data_id": "Id1",
+            "id": 15
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Chief Regulatory",
+            "sentiment": 0.0,
+            "location": [
+                1177,
+                1193
+            ],
+            "data_id": "Id1",
+            "id": 16
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Philippe Vollot",
+            "sentiment": 0.0,
+            "location": [
+                1569,
+                1584
+            ],
+            "data_id": "Id1",
+            "id": 17
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Stephan Wilken",
+            "sentiment": 0.0,
+            "location": [
+                1621,
+                1635
+            ],
+            "data_id": "Id1",
+            "id": 18
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Frank Strauss",
+            "sentiment": 0.0,
+            "location": [
+                1911,
+                1924
+            ],
+            "data_id": "Id1",
+            "id": 19
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "he",
+            "sentiment": 0.0,
+            "location": [
+                1969,
+                1971
+            ],
+            "data_id": "Id1",
+            "id": 20
+        },
+        {
+            "entity_type": "Person",
+            "entity_name": "Christian Sewing",
+            "sentiment": -0.470138,
+            "location": [
+                540,
+                556
+            ],
+            "data_id": "Id1",
+            "id": 21
+        },
+        {
+            "entity_type": "Support",
+            "entity_name": "called a \u201cvicious circle",
+            "sentiment": -0.314153,
+            "location": [
+                936,
+                960
+            ],
+            "data_id": "Id1",
+            "id": 22
+        },
+        {
+            "entity_type": "Support",
+            "entity_name": "crime unit",
+            "sentiment": 0.0,
+            "location": [
+                1500,
+                1510
+            ],
+            "data_id": "Id1",
+            "id": 23
+        },
+        {
+            "entity_type": "Support",
+            "entity_name": "declining revenue",
+            "sentiment": -0.565461,
+            "location": [
+                672,
+                689
+            ],
+            "data_id": "Id1",
+            "id": 24
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "has already replaced two members",
+            "sentiment": -0.229658,
+            "location": [
+                1025,
+                1057
+            ],
+            "data_id": "Id1",
+            "id": 25
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "was targeting",
+            "sentiment": -0.736724,
+            "location": [
+                1323,
+                1336
+            ],
+            "data_id": "Id1",
+            "id": 26
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "tumbled",
+            "sentiment": -0.651432,
+            "location": [
+                327,
+                334
+            ],
+            "data_id": "Id1",
+            "id": 27
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "was appointed",
+            "sentiment": 0.0,
+            "location": [
+                1972,
+                1985
+            ],
+            "data_id": "Id1",
+            "id": 28
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "convene",
+            "sentiment": 0.0,
+            "location": [
+                396,
+                403
+            ],
+            "data_id": "Id1",
+            "id": 29
+        },
+        {
+            "entity_type": "Action",
+            "entity_name": "foiled",
+            "sentiment": -0.565461,
+            "location": [
+                695,
+                701
+            ],
+            "data_id": "Id1",
+            "id": 30
+        },
+        {
+            "entity_type": "Indicator",
+            "entity_name": "police raid",
+            "sentiment": -0.736724,
+            "location": [
+                1288,
+                1299
+            ],
+            "data_id": "Id1",
+            "id": 31
+        },
+        {
+            "entity_type": "Indicator",
+            "entity_name": "two suspects",
+            "sentiment": -0.736724,
+            "location": [
+                1337,
+                1349
+            ],
+            "data_id": "Id1",
+            "id": 32
+        },
+        {
+            "entity_type": "Indicator",
+            "entity_name": "to a record low",
+            "sentiment": -0.651432,
+            "location": [
+                335,
+                350
+            ],
+            "data_id": "Id1",
+            "id": 33
+        },
+        {
+            "entity_type": "Indicator",
+            "entity_name": "investigators generally check",
+            "sentiment": -0.666713,
+            "location": [
+                2292,
+                2321
+            ],
+            "data_id": "Id1",
+            "id": 34
+        },
+        {
+            "entity_type": "Date",
+            "entity_name": "on Thursday",
+            "sentiment": -0.736724,
+            "location": [
+                1300,
+                1311
+            ],
+            "data_id": "Id1",
+            "id": 35
+        },
+        {
+            "entity_type": "Date",
+            "entity_name": "Friday",
+            "sentiment": -0.736724,
+            "location": [
+                1316,
+                1322
+            ],
+            "data_id": "Id1",
+            "id": 36
+        },
+        {
+            "entity_type": "Date",
+            "entity_name": "2015-2018",
+            "sentiment": 0.0,
+            "location": [
+                1952,
+                1961
+            ],
+            "data_id": "Id1",
+            "id": 37
+        },
+        {
+            "entity_type": "Date",
+            "entity_name": "on Tuesday",
+            "sentiment": 0.0,
+            "location": [
+                404,
+                414
+            ],
+            "data_id": "Id1",
+            "id": 38
+        },
+        {
+            "entity_type": "Institution",
+            "entity_name": "CEO",
+            "sentiment": 0.0,
+            "location": [
+                1986,
+                1989
+            ],
+            "data_id": "Id1",
+            "id": 39
+        },
+        {
+            "entity_type": "Country",
+            "entity_name": "They",
+            "sentiment": -0.733861,
+            "location": [
+                2101,
+                2105
+            ],
+            "data_id": "Id1",
+            "id": 40
+        }
+    ],
+    "links": [
+        {
+            "type": "IsModifiedBy",
+            "source": 1,
+            "target": 22,
+            "key": 0
+        },
+        {
+            "type": "IsTriggeredBy",
+            "source": 3,
+            "target": 6,
+            "key": 0
+        },
+        {
+            "type": "HasAttribute",
+            "source": 5,
+            "target": 40,
+            "key": 0
+        },
+        {
+            "type": "IsQualifiedBy",
+            "source": 11,
+            "target": 7,
+            "key": 0
+        },
+        {
+            "type": "IsQualifiedBy",
+            "source": 13,
+            "target": 8,
+            "key": 0
+        },
+        {
+            "type": "IsQualifiedBy",
+            "source": 14,
+            "target": 9,
+            "key": 0
+        },
+        {
+            "type": "IsQualifiedBy",
+            "source": 14,
+            "target": 10,
+            "key": 0
+        },
+        {
+            "type": "IsSponsoredBy",
+            "source": 22,
+            "target": 13,
+            "key": 0
+        },
+        {
+            "type": "IsSponsoredBy",
+            "source": 24,
+            "target": 21,
+            "key": 0
+        },
+        {
+            "type": "IsSponsoredBy",
+            "source": 25,
+            "target": 11,
+            "key": 0
+        },
+        {
+            "type": "OccurredOn",
+            "source": 26,
+            "target": 35,
+            "key": 0
+        },
+        {
+            "type": "OccurredOn",
+            "source": 26,
+            "target": 36,
+            "key": 0
+        },
+        {
+            "type": "OccurredOn",
+            "source": 28,
+            "target": 37,
+            "key": 0
+        },
+        {
+            "type": "IsSponsoredBy",
+            "source": 28,
+            "target": 20,
+            "key": 0
+        },
+        {
+            "type": "HasAttribute",
+            "source": 28,
+            "target": 39,
+            "key": 0
+        },
+        {
+            "type": "OccurredOn",
+            "source": 29,
+            "target": 38,
+            "key": 0
+        },
+        {
+            "type": "HasAttribute",
+            "source": 30,
+            "target": 11,
+            "key": 0
+        },
+        {
+            "type": "IsModifiedBy",
+            "source": 33,
+            "target": 27,
+            "key": 0
+        }
+    ]
+}
